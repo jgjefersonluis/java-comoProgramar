@@ -1,0 +1,10 @@
+package capitulo3.caixasdedialogo;
+
+public class NameDialog {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
