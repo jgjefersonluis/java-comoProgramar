@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package capitulo4instrucoesdecontrole.rcpcr;
+
+/**
+ * @author jg_je
+ *
+ */
+public class GradeBookTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

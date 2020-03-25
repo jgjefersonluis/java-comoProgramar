@@ -1,0 +1,8 @@
+package capitulo4instrucoesdecontrole.rcps;
+
+public class Mystery3 {
+
+	public static void main(String[] args) {
+
+	}
+}
