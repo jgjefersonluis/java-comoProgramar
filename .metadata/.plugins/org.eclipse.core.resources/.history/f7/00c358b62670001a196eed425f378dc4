@@ -1,0 +1,17 @@
+package capitulo5imagensgraficas;
+
+import javax.swing.JPanel;
+
+public class Shapes extends JPanel {
+	
+	private int choice;
+
+	public Shapes(int userchoice) {
+		
+		choice = userchoice;
+	}
+	
+	
+	
+
+}
