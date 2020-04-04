@@ -1,7 +1,0 @@
-package capitulo2.imc;
-
-import applicationimc.GuiPrincipal;
-
-public class AplCalculaIMC {
-	new GuiPrincipal().setVisible(true);
-}

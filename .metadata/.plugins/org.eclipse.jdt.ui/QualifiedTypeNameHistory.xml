@@ -4,5 +4,9 @@
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 <fullyQualifiedTypeName name="capitulo4instrucoesdecontrole.rcps.GradeBook"/>
 <fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="capitulo6.metodosmultiplosparametros.MaximumFinder"/>
+<fullyQualifiedTypeName name="capitulo6.numerosaleatorios.Craps.Status"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="capitulo6.imagensgraficas.DrawSmiley"/>
 <fullyQualifiedTypeName name="javax.swing.JFrame"/>
 </qualifiedTypeNameHistroy>

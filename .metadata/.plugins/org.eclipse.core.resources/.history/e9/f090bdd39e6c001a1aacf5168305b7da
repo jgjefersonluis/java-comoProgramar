@@ -1,8 +1,0 @@
-package capitulo3.objetos;
-
-public class GradeBook {
-
-	private GradeBook(String name);
-
-	
-}

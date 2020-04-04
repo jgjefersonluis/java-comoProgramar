@@ -1,0 +1,20 @@
+package capitulo6.sobrecarga;
+
+public class MethodOverload {
+	
+	public void testOverloadedMethods(){
+	
+		System.out.printf("Square of integer 7 is %d\n", square(7));
+		System.out.printf("Square of double 7.5 is %f\n", square(7.5));
+		
+	}
+
+	public Object square(int i) {
+		System.out.printf("\nCalled square with int argument: %d\n", intValue);
+		return null;
+	}
+	
+	
+	
+
+}

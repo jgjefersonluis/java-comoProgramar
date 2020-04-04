@@ -1,0 +1,24 @@
+package capitulo6.numerosaleatorios;
+
+import java.util.Random;
+
+public class RandomIntegers {
+
+	public static void main(String[] args) {
+
+		Random randomNumbers = new Random();
+		int face;
+
+		for (int counter = 1; counter <= 6; counter++) {
+			face = 1 + randomNumbers.nextInt(61);
+
+			System.out.printf("%d ", face);
+
+			if (counter % 6 == 0) {
+				System.out.println();
+			}
+		}
+
+	}
+
+}

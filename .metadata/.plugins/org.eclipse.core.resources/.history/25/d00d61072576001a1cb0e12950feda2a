@@ -1,0 +1,10 @@
+package capitulo6.imagensgraficas;
+
+public class SphereTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
